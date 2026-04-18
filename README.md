@@ -37,7 +37,7 @@
 
 ---
 
-### 📫 İletişim
+### 📫 İletişim & Akademik Profiller
 
 <p align="left">
   <a href="mailto:fkoc@bingol.edu.tr">
@@ -45,6 +45,15 @@
   </a>
   <a href="http://www.bingol.edu.tr/tr/akademik-personel/90492e1d-fc42-4550-affd-ba12c01c3aab">
     <img src="https://img.shields.io/badge/Üniversite%20Sayfası-0052CC?style=for-the-badge&logo=academia&logoColor=white"/>
+  </a>
+  <a href="https://www.researchgate.net/search?q=Feyyaz+Ko%C3%A7+Bingöl">
+    <img src="https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white"/>
+  </a>
+  <a href="https://orcid.org/0000-0002-1024-7889">
+    <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"/>
+  </a>
+  <a href="https://akademik.yok.gov.tr/AkademikArama/view/viewAuthor.jsp">
+    <img src="https://img.shields.io/badge/YÖK%20Akademik-E30613?style=for-the-badge&logo=academia&logoColor=white"/>
   </a>
 </p>
 
